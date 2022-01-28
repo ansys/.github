@@ -5,7 +5,7 @@ Welcome to Ansys's main GitHub organization!
 ## Explore
 
 * [Explore featured projects](https://ansys.github.io/)
-* [Explore open source jobs at Microsoft](https://careers.ansys.com/search/?searchby=location&createNewAlert=false&q=open+source)
+* [Explore open source jobs at Ansys](https://careers.ansys.com/search/?searchby=location&createNewAlert=false&q=open+source)
 
 We have several repositories you can use and contribute to, featuring:
 
