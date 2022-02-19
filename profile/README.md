@@ -1,7 +1,7 @@
 ﻿![Python at ANSYS Inc](/images/pyansys_dark.png)
 
 
-# Python and Ansys = PyAnsys
+# Python + Ansys = PyAnsys
 
 Welcome to the PyAnsys Project!
 
