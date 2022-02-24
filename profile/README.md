@@ -22,8 +22,6 @@ on the various GitHub pages in this document.  For additional support,
 contact the [PyAnsys Support](mailto:pyansys.support@ansys.com>) 
 and your requests will be routed correctly.
 
-You can also chat on discord at [PyAnsys Discord](https://discord.gg/g3r4ThDfpM).
-
 ## Contributing to PyAnsys
 
 We are excited to have you on board!
