@@ -21,4 +21,4 @@ We also contribute to
 
 ---
 
-Checkout our other Organization at [GitHub - PyAnsys](https://github.com/pyansys) - Pythonic interface to MAPDL
+Checkout our other Organization at [GitHub - PyAnsys](https://github.com/pyansys) - Pythonic interfaces to Ansys's products and tools supporting those libraries. 
