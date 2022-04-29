@@ -13,10 +13,10 @@ body:
   - type: checkboxes
     id: new-bug
     attributes:
-      label: Before submiting the issue
+      label: Before submitting the issue
       description: Please, make sure the following conditions are met
       options:
-      - label: I have searched the existing issues
+      - label: I have searched among the existing issues
         required: true
       - label: I am using a Python virtual environment
         required: true
