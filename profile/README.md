@@ -32,4 +32,5 @@ we recommend you to have a look at the current
 [PyAnsys Developer's Guide](https://github.com/pyansys/dev-guide).
 The latest PDF can be obtained from [here](https://github.com/pyansys/dev-guide/releases).
 
-Feel free to contact us by opening a discussion or issue in the respective GitHub repository.
+Feel free to contact us by opening a discussion or an issue in the respective GitHub repository.
+
