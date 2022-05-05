@@ -20,7 +20,7 @@ has been expanded to six main packages:
 
 This is an expanding and developing project.  Feel free to post issues
 on the various GitHub pages in this document.  For additional support,
-contact the [PyAnsys Support](mailto:pyansys.support@ansys.com>) 
+contact the [PyAnsys Support](mailto:pyansys.support@ansys.com>)
 and your requests will be routed correctly.
 
 ## Contributing to PyAnsys
@@ -29,7 +29,8 @@ We are excited to have you on board!
 
 If you would like to contribute to PyAnsys,
 we recommend you to have a look at the current
-[PyAnsys Developer's Guide](https://github.com/pyansys/dev-guide). 
-The lastest PDF can be obtained from [here](https://github.com/pyansys/dev-guide/releases).
+[PyAnsys Developer's Guide](https://github.com/pyansys/dev-guide).
+The latest PDF can be obtained from [here](https://github.com/pyansys/dev-guide/releases).
 
-Feel free to contact us by opening a discussion or issue in the respective GitHub repository.
+Feel free to contact us by opening a discussion or an issue in the respective GitHub repository.
+
