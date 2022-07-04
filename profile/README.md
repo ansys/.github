@@ -3,34 +3,35 @@
 
 # Python + Ansys = PyAnsys
 
-Welcome to the PyAnsys Project!
+Welcome to the PyAnsys project.
 
-The PyAnsys project is a collection of Python packages to enable the
-usage of Ansys products through Python.
+The PyAnsys project is a collection of Python packages that enable the use of
+Ansys products through Python.
 
-This project originally began as a single package, `pyansys`, and
-has been expanded to six main packages:
+This project originated as a single package, `pyansys`, and has
+expanded to several main packages:
 
-* [PyMAPDL](https://mapdldocs.pyansys.com/): Pythonic interface to MAPDL
 * [PyAEDT](https://aedtdocs.pyansys.com/): Pythonic interface to AEDT
-* [PyDPF-Core](https://dpfdocs.pyansys.com/): Post-Processing using the Data Processing Framework (DPF).  More complex yet and more powerful post-processing APIs.
-* [PyDPF-Post](https://postdocs.pyansys.com/): Streamlined and simplified DPF Post Processing.  Higher level package and uses ``ansys-dpf-core``.
-* [Legacy PyMAPDL Reader](https://readerdocs.pyansys.com/): Legacy result file reader.  Supports result files from MAPDL v14.5 to the current release.
-* [Granta MI BoM Analytics](https://grantami.docs.pyansys.com/): Pythonic interface to Granta MI BoM Analytics Services.
+* [PyDPF-Core](https://dpfdocs.pyansys.com/): Pythonic interface to DPF (Data Processing Framework) for building more advanced and customized workflows
+* [PyDPF-Post](https://postdocs.pyansys.com/): Pythonic interface to DPF's postproccessing toolbox for maninuplating and transforming simulation data
+* [PyMAPDL](https://mapdldocs.pyansys.com/): Pythonic interface to MAPDL
+* [PyMAPDL Reader](https://readerdocs.pyansys.com/): Pythnonic interface to read legacy MAPDL result files (MAPDL 14.5 and later)
+* [PyPIM](https://pypim.docs.pyansys.com/): Pythonic interface to communicate with the PIM (Product Instance Management) API
+* [Granta MI BoM Analytics](https://grantami.docs.pyansys.com/): Pythonic interface to Granta MI BoM Analytics services
+* [Shared Components](https://shared.docs.pyansys.com/): Shared software components to enable package interoperability and minimize maintenance
 
-This is an expanding and developing project.  Feel free to post issues
-on the various GitHub pages in this document.  For additional support,
-contact the [PyAnsys Support](mailto:pyansys.support@ansys.com>)
-and your requests will be routed correctly.
+Much effort is underway to continue expanding and developing packages in the
+[PyAnsys Github](https://github.com/pyansys/) account. On the ``Issues`` page
+for each package , you can post issues and request new features. You can also email
+questions to [PyAnsys Support](mailto:pyansys.support@ansys.com>).
 
 ## Contributing to PyAnsys
 
-We are excited to have you on board!
+We are excited to have you on board.
 
-If you would like to contribute to PyAnsys,
-we recommend you to have a look at the current
-[PyAnsys Developer's Guide](https://github.com/pyansys/dev-guide).
-The latest PDF can be obtained from [here](https://github.com/pyansys/dev-guide/releases).
+If you would like to contribute to the PyAnsys project, see the
+[PyAnsys Developer's Guide](https://github.com/pyansys/dev-guide). You can
+obtain the latest PDF of this guide from the [release package](https://github.com/pyansys/dev-guide/releases).
 
-Feel free to contact us by opening a discussion or an issue in the respective GitHub repository.
-
+Feel free to contact us by opening a discussion or an issue in the respective
+PyAnsys GitHub repository.
