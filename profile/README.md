@@ -15,7 +15,7 @@ expanded to several main packages:
 * [PyDPF-Core](https://dpfdocs.pyansys.com/): Pythonic interface to DPF (Data Processing Framework) for building more advanced and customized workflows
 * [PyDPF-Post](https://postdocs.pyansys.com/): Pythonic interface to DPF's postproccessing toolbox for maninuplating and transforming simulation data
 * [PyMAPDL](https://mapdldocs.pyansys.com/): Pythonic interface to MAPDL
-* [PyMAPDL Reader](https://readerdocs.pyansys.com/): Pythnonic interface to read legacy MAPDL result files (MAPDL 14.5 and later)
+* [PyMAPDL Reader](https://readerdocs.pyansys.com/): Pythonic interface to read legacy MAPDL result files (MAPDL 14.5 and later)
 * [PyFluent](https://fluentdocs.pyansys.com/): Pythonic interface to Ansys Fluent
 * [PyPIM](https://pypim.docs.pyansys.com/): Pythonic interface to communicate with the PIM (Product Instance Management) API
 * [Granta MI BoM Analytics](https://grantami.docs.pyansys.com/): Pythonic interface to Granta MI BoM Analytics services
