@@ -38,3 +38,9 @@ obtain the latest PDF of this guide from the [release package](https://github.co
 
 Feel free to contact us by opening a discussion or an issue in the respective
 PyAnsys GitHub repository.
+
+## Join the PyAnsys Organization
+
+If you're an employee of [Ansys Inc.](https://www.ansys.com/), you can join the organization by visiting the [Join PyAnsys GitHub Organization](https://myapps.microsoft.com/signin/8f67c59b-83ac-4318-ae96-f0588382ddc0?tenantId=34c6ce67-15b8-4eff-80e9-52da8be89706) link.
+
+If you're external to Ansys but want to contribute to our repositories, please open an issue on the appropriate repository and we'll consider adding you as an external contributor on a per-repository basis. This will give you write permission to open pull requests without forking the repository. You can always fork a repository and push pull requests from the fork instead if you prefer.
