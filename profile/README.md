@@ -20,6 +20,7 @@ expanded to several main packages:
 * [PyFluent-Parametric](https://fluentparametric.docs.pyansys.com/): Pythonic interface to Ansys Fluent parametric workflows
 * [PyFluent-Visualization](https://fluentvisualization.docs.pyansys.com): Pythonic interface to visualize Ansys Fluent simulations using Python
 * [PyPIM](https://pypim.docs.pyansys.com/): Pythonic interface to communicate with the PIM (Product Instance Management) API
+* [PySeascape](https://seascape.docs.pyansys.com/): Pythonic interface to communicate with RedHawkSC and TotemSC
 * [Granta MI BoM Analytics](https://grantami.docs.pyansys.com/): Pythonic interface to Granta MI BoM Analytics services
 * [Shared Components](https://shared.docs.pyansys.com/): Shared software components to enable package interoperability and minimize maintenance
 
