@@ -19,7 +19,7 @@ expanded to several main packages:
 * [PyFluent](https://fluent.docs.pyansys.com/): Pythonic interface to Ansys Fluent
 * [PyFluent-Parametric](https://fluentparametric.docs.pyansys.com/): Pythonic interface to Ansys Fluent parametric workflows
 * [PyFluent-Visualization](https://fluentvisualization.docs.pyansys.com): Pythonic interface to visualize Ansys Fluent simulations using Python
-* [PyPRIME](https://prime.docs.pyansys.com/): PyPrimeMesh provides a python client to Ansys Prime Server which delivers core Ansys meshing technology
+* [PyPrimeMesh](https://prime.docs.pyansys.com/): PyPrimeMesh provides a python client to Ansys Prime Server which delivers core Ansys meshing technology
 * [PyPIM](https://pypim.docs.pyansys.com/): Pythonic interface to communicate with the PIM (Product Instance Management) API
 * [PySeascape](https://seascape.docs.pyansys.com/): Pythonic interface to communicate with RedHawkSC and TotemSC
 * [Granta MI BoM Analytics](https://grantami.docs.pyansys.com/): Pythonic interface to Granta MI BoM Analytics services
