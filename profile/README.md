@@ -17,8 +17,8 @@ expanded to several main packages:
 * [PyMAPDL](https://mapdl.docs.pyansys.com/): Pythonic interface to MAPDL
 * [PyMAPDL Reader](https://reader.docs.pyansys.com/): Pythonic interface to read legacy MAPDL result files (MAPDL 14.5 and later)
 * [PyFluent](https://fluent.docs.pyansys.com/): Pythonic interface to Ansys Fluent
-* [PyFluent-Parametric](https://fluentparametric.docs.pyansys.com/): Pythonic interface to Ansys Fluent parametric workflows
-* [PyFluent-Visualization](https://fluentvisualization.docs.pyansys.com): Pythonic interface to visualize Ansys Fluent simulations using Python
+* [PyFluent-Parametric](https://parametric.fluent.docs.pyansys.com/): Pythonic interface to Ansys Fluent parametric workflows
+* [PyFluent-Visualization](https://visualization.fluent.docs.pyansys.com): Pythonic interface to visualize Ansys Fluent simulations using Python
 * [PyPrimeMesh](https://prime.docs.pyansys.com/): Pythonic interface to Ansys Prime Server which delivers core Ansys meshing technology
 * [PyPIM](https://pypim.docs.pyansys.com/): Pythonic interface to communicate with the PIM (Product Instance Management) API
 * [PySeascape](https://seascape.docs.pyansys.com/): Pythonic interface to communicate with RedHawkSC and TotemSC
