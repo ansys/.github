@@ -14,6 +14,7 @@ expanded to several main packages:
 * [PyAEDT](https://aedt.docs.pyansys.com/): Pythonic interface to AEDT.
 * [PyDPF-Core](https://dpf.docs.pyansys.com/): Pythonic interface to DPF (Data Processing Framework) for building more advanced and customized workflows.
 * [PyDPF-Post](https://post.docs.pyansys.com/): Pythonic interface to DPF's postprocessing toolbox for manipulating and transforming simulation data.
+* [PyDPF Composites](https://composites.dpf.docs.pyansys.com): Pythonic interface to post-process layered and short-fiber composite models.
 * [PyMAPDL](https://mapdl.docs.pyansys.com/): Pythonic interface to MAPDL.
 * [PyMAPDL Reader](https://reader.docs.pyansys.com/): Pythonic interface to read legacy MAPDL result files (MAPDL 14.5 and later).
 * [PyFluent](https://fluent.docs.pyansys.com/): Pythonic interface to Ansys Fluent.
