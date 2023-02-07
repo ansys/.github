@@ -29,7 +29,7 @@ expanded to several main packages:
 
 Much effort is underway to continue expanding and developing repositories in the
 [PyAnsys GitHub](https://github.com/pyansys/) account. On the ``Issues`` page
-for each package, you can post issues and request new features. You can also feel free 
+for each package, you can post issues and request new features. You can also feel free
 to post a question on the [Ansys Developer Fourms](https://discuss.ansys.com/).
 
 ## Contributing to PyAnsys
