@@ -1,6 +1,5 @@
 ﻿![Python at ANSYS Inc](/images/pyansys_dark.png)
 
-
 # Python + Ansys = PyAnsys
 
 Welcome to the PyAnsys project.
@@ -26,10 +25,12 @@ expanded to several main packages:
 * [Granta MI BoM Analytics](https://grantami.docs.pyansys.com/): Pythonic interface to Granta MI BoM Analytics services.
 * [Shared Components](https://shared.docs.pyansys.com/): Shared software components to enable package interoperability and minimize maintenance.
 
-Much effort is underway to continue expanding and developing packages in the
-[PyAnsys Github](https://github.com/pyansys/) account. On the ``Issues`` page
-for each package , you can post issues and request new features. You can also email
-questions to [PyAnsys Support](mailto:pyansys.support@ansys.com>).
+## Contacting Us
+
+Much effort is underway to continue expanding and developing repositories in the
+[PyAnsys GitHub](https://github.com/pyansys/) account. On the ``Issues`` page
+for each package, you can post issues and request new features. You can also feel free 
+to post a question on the [Ansys Developer Fourms](https://discuss.ansys.com/).
 
 ## Contributing to PyAnsys
 
@@ -37,10 +38,9 @@ We are excited to have you on board.
 
 If you would like to contribute to the PyAnsys project, see the
 [PyAnsys Developer's Guide](https://github.com/pyansys/dev-guide). You can
-obtain the latest PDF of this guide from the [release package](https://github.com/pyansys/dev-guide/releases).
+obtain the latest PDF of this guide from the [PyAnsys Developer's Guide - Releases](https://github.com/pyansys/dev-guide/releases).
 
-Feel free to contact us by opening a discussion or an issue in the respective
-PyAnsys GitHub repository.
+Feel free to contact us by opening a discussion or an issue in the respective PyAnsys GitHub repository.
 
 ## Join the PyAnsys Organization
 
