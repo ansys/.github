@@ -10,7 +10,8 @@ body:
     id: example-description
     attributes:
       label: '📝 Description of the example'
-      placeholder: Describe what example you devised and why it is useful for the project
+      placeholder: Describe what example you devised and why it is useful for the project.
+
     validations:
       required: true
 
@@ -41,7 +42,8 @@ body:
     id: ansys-version
     attributes:
       label: '📀 Which ANSYS version are you using?'
-      placeholder: Indicate the ANSYS version of the products you are using
+      placeholder: Indicate the ANSYS version of the products you are using.
+
     validations:
       required: false
 
