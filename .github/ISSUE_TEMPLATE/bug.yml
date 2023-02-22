@@ -45,6 +45,15 @@ body:
     validations:
       required: true
 
+  - type: textarea
+    id: ansys-version
+    attributes:
+      label: '📀 Which ANSYS version are you using?'
+      placeholder: Indicate the ANSYS version of the products you are using
+    validations:
+      required: false
+
+
   - type: dropdown
     id: python-version
     attributes:
