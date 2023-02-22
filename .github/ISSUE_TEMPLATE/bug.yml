@@ -21,7 +21,7 @@ body:
     id: bug-description
     attributes:
       label: '🐞 Description of the bug'
-      placeholder: Describe what bug you encountered and what should have happened.
+      placeholder: Describe what bug you encountered and what should have happened. Please copy trace as text and not as a screenshot.
     validations:
       required: true
 
