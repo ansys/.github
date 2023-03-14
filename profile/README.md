@@ -25,6 +25,7 @@ expanded to several main packages:
 * [PyTwin](https://twin.docs.pyansys.com/): Pythonic interface to communicate with Ansys Digital Twins consumption workflows.
 * [Granta MI BoM Analytics](https://grantami.docs.pyansys.com/): Pythonic interface to Granta MI BoM Analytics services.
 * [Shared Components](https://shared.docs.pyansys.com/): Shared software components to enable package interoperability and minimize maintenance.
+* [PySystem-Coupling](https://github.com/pyansys/pysystem-coupling): Python API to access APIs to set up and solve coupled analyses.
 
 ## Contacting Us
 
