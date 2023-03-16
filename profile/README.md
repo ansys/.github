@@ -13,16 +13,16 @@ expanded to many packages:
 * [PyAEDT](https://aedt.docs.pyansys.com/): Pythonic interface to AEDT (Ansys Electronics Desktop).
 * [PyDPF-Core](https://dpf.docs.pyansys.com/): Pythonic interface to Ansys DPF (Data Processing Framework) for building more advanced and customized workflows.
 * [PyDPF-Post](https://post.docs.pyansys.com/): Pythonic interface to DPF's postprocessing toolbox for manipulating and transforming simulation data.
-* [PyDPFComposites](https://composites.dpf.docs.pyansys.com): Pythonic interface for DPF's postprocessing of layered and short-fiber composite models.
-* [PyMAPDL](https://mapdl.docs.pyansys.com/): Pythonic interface to Ansys MAPDL (Mechanical APDL).
-* [PyMAPDL Reader](https://reader.docs.pyansys.com/): Pythonic interface to read legacy MAPDL result files (MAPDL 14.5 and later).
+* [PyDPF Composites](https://composites.dpf.docs.pyansys.com): Pythonic interface for DPF's postprocessing of layered and short-fiber composite models.
 * [PyFluent](https://fluent.docs.pyansys.com/): Pythonic interface to Ansys Fluent.
 * [PyFluent-Parametric](https://parametric.fluent.docs.pyansys.com/): Pythonic interface to Ansys Fluent parametric workflows.
 * [PyFluent-Visualization](https://visualization.fluent.docs.pyansys.com): Pythonic interface to visualize Ansys Fluent simulations using Python.
-* [PyPrimeMesh](https://prime.docs.pyansys.com/): Pythonic interface to Ansys Prime Server, which delivers core Ansys meshing technology.
+* [PyMAPDL](https://mapdl.docs.pyansys.com/): Pythonic interface to Ansys MAPDL (Mechanical APDL).
+* [PyMAPDL Reader](https://reader.docs.pyansys.com/): Pythonic interface to read legacy MAPDL result files (MAPDL 14.5 and later).
 * [PyPIM](https://pypim.docs.pyansys.com/): Pythonic interface to communicate with the Ansys PIM (Product Instance Management) API.
+* [PyPrimeMesh](https://prime.docs.pyansys.com/): Pythonic interface to Ansys Prime Server, which delivers core Ansys meshing technology.
 * [PySeascape](https://seascape.docs.pyansys.com/): Pythonic interface to communicate with Ansys RedHawkSC and TotemSC.
-* [PySystem-Coupling](https://systemcoupling.docs.pyansys.com/): Pythonic interface to communicate with Ansys System Coupling.
+* [PySystemCoupling](https://systemcoupling.docs.pyansys.com/): Pythonic interface to communicate with Ansys System Coupling.
 * [PyTwin](https://twin.docs.pyansys.com/): Pythonic interface to communicate with consumption workflows for Ansys digital twins.
 * [Granta MI BoM Analytics](https://grantami.docs.pyansys.com/): Pythonic interface to Ansys Granta MI BoM Analytics services.
 * [Shared Components](https://shared.docs.pyansys.com/): Shared Ansys software components to enable package interoperability and minimize maintenance.
