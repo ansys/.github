@@ -11,6 +11,7 @@ This project originated as a single package, ``pyansys``, and has
 expanded to many packages:
 
 * [PyAEDT](https://aedt.docs.pyansys.com/): Pythonic interface to AEDT (Ansys Electronics Desktop).
+* [PyAnsys Math](https://math.docs.pyansys.com/): Pythonic interface to PyAnsys Math libraries.
 * [PyDPF-Core](https://dpf.docs.pyansys.com/): Pythonic interface to Ansys DPF (Data Processing Framework) for building more advanced and customized workflows.
 * [PyDPF-Post](https://post.docs.pyansys.com/): Pythonic interface to DPF's postprocessing toolbox for manipulating and transforming simulation data.
 * [PyDPF Composites](https://composites.dpf.docs.pyansys.com): Pythonic interface for DPF's postprocessing of layered and short-fiber composite models.
