@@ -20,6 +20,7 @@ expanded to many packages:
 * [PyFluent-Visualization](https://visualization.fluent.docs.pyansys.com): Pythonic interface to visualize Ansys Fluent simulations using Python.
 * [PyMAPDL](https://mapdl.docs.pyansys.com/): Pythonic interface to Ansys MAPDL (Mechanical APDL).
 * [PyMAPDL Reader](https://reader.docs.pyansys.com/): Pythonic interface to read legacy MAPDL result files (MAPDL 14.5 and later).
+* [PyOptiSLang](https://optislang.docs.pyansys.com/): Pythonic interface to Ansys optiSLang.
 * [PyPIM](https://pypim.docs.pyansys.com/): Pythonic interface to communicate with the Ansys PIM (Product Instance Management) API.
 * [PyPrimeMesh](https://prime.docs.pyansys.com/): Pythonic interface to Ansys Prime Server, which delivers core Ansys meshing technology.
 * [PySeascape](https://seascape.docs.pyansys.com/): Pythonic interface to communicate with Ansys RedHawkSC and TotemSC.
