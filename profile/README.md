@@ -29,7 +29,7 @@ expanded to many packages:
 * [PyTwin](https://twin.docs.pyansys.com/): Pythonic interface to communicate with consumption workflows for Ansys digital twins.
 * [Granta MI BoM Analytics](https://grantami.docs.pyansys.com/): Pythonic interface to Ansys Granta MI BoM Analytics services.
 * [Shared Components](https://shared.docs.pyansys.com/): Shared Ansys software components to enable package interoperability and minimize maintenance.
-* [PyAnsys Metapackage](https://shared.docs.pyansys.com/): Single package of collected PyAnsys packages that ensures compatibility of these packages amongst themselves and the Ansys product release that they are linked to.
+* [PyAnsys Metapackage](https://docs.pyansys.com/): Single package of collected PyAnsys packages that ensures compatibility of these packages amongst themselves and the Ansys product release that they are linked to.
 
 ## Contacting Us
 
