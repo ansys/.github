@@ -1,4 +1,4 @@
-![Open Source at Ansys](https://github.com/ansys/.github/blob/main/images/open-at-ansys.png)
+![Open Source at Ansys](https://github.com/ansys/.github/blob/main/images/ansys-logo.png)
 
 Welcome to Ansys's main GitHub organization!
 
