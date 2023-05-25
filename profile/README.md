@@ -4,7 +4,7 @@ Welcome to Ansys's main GitHub organization!
 
 If you're an Ansys employee, you can join by visiting [Join Ansys GitHub Organization](https://github.com/orgs/ansys/sso).
 
-#### Explore some of our open source projects at [PyAnsys Projects](https://docs.pyansys.com/version/dev/).
+#### Explore some of our open source projects at [PyAnsys Projects](https://docs.pyansys.com/).
 
 * Connect
     * See the [Ansys Developer Portal](https://developer.ansys.com/).
