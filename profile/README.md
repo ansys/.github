@@ -12,7 +12,7 @@ If you're an Ansys employee, you can join by visiting [Join Ansys GitHub Organiz
 * Contributing
     * Need help developing? See our [PyAnsys developer's guide](https://dev.docs.pyansys.com/).
     * Learn more about how you can contribute at [Open Source @ Ansys](https://developer.ansys.com/SCA).
-* [Explore open source jobs at Ansys](https://careers.ansys.com/search/?searchby=location&createNewAlert=false&q=open+source)
+* [Explore open source jobs at Ansys](https://careers.ansys.com/search/?searchby=location&createNewAlert=false&q="open+source")
 
 We also contribute to:
 - [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
