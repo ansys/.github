@@ -11,7 +11,7 @@ If you're an Ansys employee, you can join by visiting [Join Ansys GitHub Organiz
     * Want to connect with other users of Ansys Open Source Software? Visit the [Ansys Developer Forum](https://discuss.ansys.com/).
 * Contributing
     * Need help developing? See our [PyAnsys developer's guide](https://dev.docs.pyansys.com/).
-    * Learn more about how you can contribute at [Open Source @ Ansys](https://developer.ansys.com/SCA).
+    * Learn more about how you can contribute at [Open Source @ Ansys](https://developer.ansys.com/docs/sca).
 * [Explore open source jobs at Ansys](https://careers.ansys.com/search/?searchby=location&createNewAlert=false&q="open+source")
 
 We also contribute to:
