@@ -18,3 +18,4 @@ We also contribute to:
 - [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
 - [Python.NET](http://pythonnet.github.io/) - Nearly seamless integration with the .NET 4.0+ Common Language Runtime (CLR) on Windows and Mono runtime on Linux and OSX.
 - [CMake](https://cmake.org/) - Controls the software compilation process using simple platform and compiler independent configuration files.
+- [Sphinx ecosystem](https://www.sphinx-doc.org/en/master/) - Static site generator used for rendering Python projects documentation.
