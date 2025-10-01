@@ -1,4 +1,4 @@
-![Open Source at Ansys](https://github.com/ansys/.github/blob/main/images/ansys-logo.png)
+![Open Source at Ansys](https://github.com/ansys/.github/blob/main/images/ansys-part-of-synopsys-logos-full-color-rgb.png)
 
 Welcome to Ansys's main GitHub organization!
 
@@ -19,3 +19,4 @@ We also contribute to:
 - [Python.NET](http://pythonnet.github.io/) - Nearly seamless integration with the .NET 4.0+ Common Language Runtime (CLR) on Windows and Mono runtime on Linux and OSX.
 - [CMake](https://cmake.org/) - Controls the software compilation process using simple platform and compiler independent configuration files.
 - [Sphinx ecosystem](https://www.sphinx-doc.org/en/master/) - Static site generator used for rendering Python projects documentation.
+
